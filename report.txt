@@ -1,0 +1,13 @@
+=======================================================
+STUDENT RECORD SYSTEM - SUMMARY REPORT
+=======================================================
+Timestamp: 2026-07-21 05:29:55
+Total number of students: 4
+-------------------------------------------------------
+Students per department:
+  Computer Science    : 2
+  Electrical Engineering: 1
+  Software Engineering: 1
+-------------------------------------------------------
+Highest scoring student: Sara Ahmed (Roll No: 102, Marks: 95.0)
+=======================================================
